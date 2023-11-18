@@ -1,0 +1,20 @@
+# jemdoc: menu{MENU}{Research.html}
+= Research
+#[https://jemnz.com/ Jacob Mattingley] ([www@jemnz.com])
+
+
+
+[https://en.wikipedia.org/wiki/Power_electronics *Power electronics*] is a field that enables efficient electrical energy generation, conversion, and transmission in various forms, such as voltage, current, and general electromagnetic field. 
+
+\n I am striving to provide the proper energy and power for any applications that require energy and power, considering factors such as proper waveforms, time, amount, amplitude, polarity, frequency, size, position, cost, and e.t.c.. These efforts may involve materials, electronics, power, control, and electromagnetics.
+
+
+
+== 3 - 300 MHz Power Conversion and Wireless Transmission
+Increasing the switching frequency is the trend for power electronics with the fast development and innovation of implantable medical devices, plasma generation, robotics and drones, artificial intelligence and data centers, and electrifying transportation. 3 - 300 MHz power electronics stand out for various reasons besides the well-known advantages of miniaturization and integration. At higher frequencies, radiative electromagnetic waves contribute; distributed energy storage and transmission lines get involved together with lumped circuit elements. Currently, 3-300 MHz power is a blue ocean with potential fortune and treasure, waiting for navigators and divers to explore and discover them.
+
+== Pulse Power Electronics
+High peak amplitude of voltage, current, electric field, and magnetic field during a short duration are needed for circuit breakers, plasma generation, laser process, and biostimulation. Shaping the fields within a specific region for a given time duration is challenging in the co-optimized design with electronics, mechanics, and thermal.    
+
+
+See [Publications.html *Publications*] and [Project.html *Project Gallery*] for more!!

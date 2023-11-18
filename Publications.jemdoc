@@ -1,0 +1,53 @@
+# jemdoc: menu{MENU}{Publications.html}
+= Publications
+#[https://jemnz.com/ Jacob Mattingley] ([www@jemnz.com])
+
+A full list of publications can be found on [https://scholar.google.com/citations?user=ZifYVOgAAAAJ&hl=en *Google Scholar*].
+
+Here are some *Selective Publications*: 
+
+== 3 - 300 MHz Power Conversion and Wireless Transmission    
+
+- [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10221014 Wide-Range Switched-Mode Power Amplifier Architecture]
+\n *Xin Zan*, Khandoker N Rafa Islam, and David J Perreault
+\n /2023 IEEE 24th Workshop on Control and Modeling for Power Electronics (COMPEL)/, Ann Arbor, MI, USA, 2023, pp. 1-9
+
+
+- [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9701927 100 MHz Symmetric Current-Mode Class D Wireless Power Transfer]
+\n *Xin Zan* and Al-Thaddeus Avestruz 
+\n /IEEE Journal of Emerging and Selected Topics in Power Electronics/, vol. 11, no. 4, pp. 4508-4525, Aug. 2023
+
+
+- [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9864270 Field Cancellation for Circuits Encircled by VHF Wireless Power Transfer Coils]
+\n *Xin Zan* and Al-Thaddeus Avestruz
+\n /IEEE Transactions on Power Electronics/, vol. 38, no. 1, pp. 46-52, Jan. 2023
+
+
+- [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9106856 Isolated Ultrafast Gate Driver with Variable Duty Cycle for Pulse and VHF Power Electronics]
+\n *Xin Zan* and Al-Thaddeus Avestruz
+\n /IEEE Transactions on Power Electronics/, vol. 35, no. 12, pp. 12678-12685, Dec. 2020
+
+
+
+
+
+== Pulse Power Electronics
+- [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9776609 Medium Voltage Pulse Power Generator for Accurate Current Interruption]
+\n *Xin Zan*, Daniel Roman Torres, Reza Kheirollahi, Xiaonan Lu, Sheng Zheng, Fei Lu, and Al-Thaddeus Avestruz
+\n /IEEE Transactions on Industrial Electronics/, vol. 70, no. 4, pp. 3604-3615, April 2023.
+
+- [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9648003 Capacitive Couple-Based Transient Current Commutation in Solid-State Circuit Breakers]
+\n Reza Kheirollahi, *Xin Zan*, Shuyan Zhao, Hua Zhang, Sheng Zheng, Xiaonan Lu,  Al-Thaddeus Avestruz, and Fei Lu
+\n /IEEE Transactions on Power Electronics/, vol. 37, no. 5, pp. 4973-4978, May 2022.
+
+ == Sensing and Measurement 
+- [https://ieeexplore.ieee.org/document/8769626 Electromagnetic Model-Based Foreign Object Detection for Wireless Power Transfer]
+\n Sung Yul Chu, *Xin Zan*, and Al-Thaddeus Avestruz
+\n /IEEE Transactions on Power Electronics/, vol. 37, no. 1, pp. 100-113, Jan. 2022.
+#\n [https://www.youtube.com/watch?v=JPXfoc61qIw Demonstration Video]
+
+ - [https://ieeexplore.ieee.org/document/9516954 Transfer-Power Measurement Using a Non-Contact Method For Fair and Accurate Metering of Wireless Power Transfer in Electric Vehicles]
+\n Sung Yul Chu, Xiaofan Cui, *Xin Zan*, and Al-Thaddeus Avestruz
+\n /IEEE Transactions on Power Electronics/, vol. 37, no. 2, pp. 1244-1271, Feb.2022.
+#\n [https://www.youtube.com/watch?v=LURZ1Xp1B4M Demonstration Video]
+
