@@ -3,6 +3,18 @@
 #This page contains all photos of our group.
 
 ~~~
+{}{img_left}{figures/MPCMCD.PNG}{}{380px}{}{}
+== Multi-Phase Current-Mode Power Amplifier Architecture
+=== Reduce switch voltage and current stress
+- 84\% better in a 3-ph CMPA and 100\% better in a 4-ph CMPA compared to a 1-ph CMPA regarding single switch utilization for a given power 
+- 20\% more power in a 3-ph CMPA compared to a 1-ph CMPA for a given semiconductor device die area
+- Wide load range operation
+- Multiple circuit configurations
+~~~
+
+\n
+
+~~~
 {}{img_left}{figures/WDCMCD.PNG}{}{390px}{}{}
 == Wide-Range Switched-Mode Power Amplifier Architecture
 === Zero-voltage switching for the entire wide-range operation
