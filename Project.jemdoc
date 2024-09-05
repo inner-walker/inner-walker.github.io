@@ -3,7 +3,7 @@
 #This page contains all photos of our group.
 
 ~~~
-{}{img_left}{figures/MPCMCD.PNG}{}{380px}{}{}
+{}{img_left}{figures/MPCMCD.png}{}{380px}{}{}
 == Multi-Phase Current-Mode Power Amplifier Architecture
 === Reduce switch voltage and current stress
 - 84\% better in a 3-ph CMPA and 100\% better in a 4-ph CMPA compared to a 1-ph CMPA regarding single switch utilization for a given power 
