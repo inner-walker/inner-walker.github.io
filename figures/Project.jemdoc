@@ -1,0 +1,97 @@
+# jemdoc: menu{MENU}{Project.html}
+= Project Gallery
+#This page contains all photos of our group.
+
+~~~
+{}{img_left}{figures/MPCMCD.PNG}{}{380px}{}{}
+== Multi-Phase Current-Mode Power Amplifier Architecture
+=== Reduce switch voltage and current stress
+- 84\% better in a 3-ph CMPA and 100\% better in a 4-ph CMPA compared to a 1-ph CMPA regarding single switch utilization for a given power 
+- 20\% more power in a 3-ph CMPA compared to a 1-ph CMPA for a given semiconductor device die area
+- Wide load range operation
+- Multiple circuit configurations
+~~~
+
+\n
+
+~~~
+{}{img_left}{figures/WDCMCD.PNG}{}{390px}{}{}
+== Wide-Range Switched-Mode Power Amplifier Architecture
+=== Zero-voltage switching for the entire wide-range operation
+- "10X" power range
+- "4X" resistive load range
+- \-j15 Ohms to +j15 Ohms reactive load range
+- Mutiple circuit implementations
+~~~
+
+\n
+~~~
+{}{img_left}{figures/CMCD_100MHz.png}{}{390px}{}{}
+== 100 MHz Wireless Power Transfer
+=== 79% dc-dc efficiency including gating loss for 1 cm gap and 6.9 W load power
+- Above 80\% (83\% peak) dc-dc efficiency without gating loss from 1.7 W to 6.9 W load power
+- Above 79\% dc-dc efficiency including gating loss from 4.9 to 6.9 W load power
+- Current-mode class D (CMCD) power amplifier as transmitter and receiver
+~~~
+
+\n
+
+~~~
+{}{img_left}{figures/ScalableArchitecture.png}{}{390px}{}{}
+== Scalable Architectures for 100 MHz Wireless Power Transfer
+=== Linearly scale up and down power level and transfer distance while maintaining efficiency
+- Synchronized and identical modular converters drive the segmented coils actively and simultaneously  
+- Partition the power conversion and transmission among modular converters and segmented coils instead of single higher-power ones
+~~~
+
+\n
+
+~~~
+{}{img_left}{figures/GD.png}{}{390px}{}{}
+== Ultrafast Isolated Gate Driver
+=== Fully utilize the benefits of GaN HEMTs for VHF and pulse power
+- Ultrafast rise and fall times below *270 ps* 
+- Transformer isolation
+- Variable frequency up to *165 MHz* and Variable duty cycles
+- Arbitrary long on- and off-times 
+- Flexible control inputs
+- Customized for different GaN HEMTs with small gating loss
+- Integration possible
+~~~
+
+~~~
+{}{img_left}{figures/FieldCancel.png}{}{390px}{}{}
+== Active Field Cancellation for Miniaturized Wireless Power Transfer
+=== Excellent field cancellation performance with compactness and miniaturization
+- The magnetic field for the encircled circuits is reduced to 4.2\% when loaded and 0.9\% when unloaded
+- The tradeoff between field cancellation performance and power transmission performance
+~~~
+
+\n
+
+
+~~~
+{}{img_left}{figures/I_Breaker.png}{}{390px}{}{}
+== Medium Voltage, High Accurate Current Pulse Generator
+=== Flat-top current pulse and fast response time  
+- A modular 4.5 kV pulse generator that delivers a 102 A peak current pulse for an 800 ns flat-top duration and ±1\% accuracy
+- Fully scalable for different timing, voltage, and current requirements through a modular design 
+- Model reduction and waveform shaping ameliorate the effect of the large parasitics
+~~~
+
+\n
+
+~~~
+{}{img_left}{figures/WPT_Demo.jpg}{}{390px}{}{}
+== [https://www.youtube.com/watch?v=pW1VlhLX2gI 27.12 MHz, Real\-Time, Bi\-Directional, Wireless Power Transfer]
+=== Talkative, robust, and variable power transfer
+- Users interact with Alex  
+- Phase-shift modulation determines the transfer power amount and direction
+~~~
+
+\n
+
+#~~~
+#{}{raw}
+#<iframe width="400" height="250" src="https://www.youtube.com/embed/pW1VlhLX2gI" frameborder="0" allowfullscreen></iframe>
+#~~~
